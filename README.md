@@ -1,16 +1,60 @@
-## Hi there 👋
+# Tehmoor Bhatti
 
-<!--
-**Tehmoor23/Tehmoor23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Software Engineering | AI-Assisted Development**
 
-Here are some ideas to get you started:
+I am a Computer Science student at Frankfurt University of Applied Sciences with hands-on experience in designing and developing cross-platform applications and data-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy translating real-world requirements into practical, maintainable software. My interests include software engineering, AI-assisted development, IT security and the design of reliable, user-focused systems.
+
+## Selected Projects
+
+### Community Attendance & Analytics Platform
+
+*Independent volunteer software project*
+
+Design and development of a cross-platform application for digital attendance, prayer and event management using a shared codebase for web, iOS and Android.
+
+- Developed with React Native, Expo and Firebase/Firestore
+- Implemented QR-, tablet-, terminal- and cloud-based workflows
+- Built role-based access control and administrative functionality
+- Developed real-time statistics, dashboards, filters and export features
+- Designed responsive interfaces for desktop, mobile and kiosk devices
+- Managed testing, debugging, refactoring and cloud deployment
+
+### InsightBundestag
+
+*Software engineering team project at Goethe University Frankfurt*
+
+Development of a database-backed web application for processing, searching and visualizing parliamentary Open Data from the German Bundestag.
+
+- Developed with Java, Apache Spark and MongoDB
+- Contributed to authentication, registration and role-based access control
+- Implemented administrative, validation, editing and export functionality
+- Collaborated on architecture, use cases and development using Git
+
+### TradingIndicator
+
+*Independent project inspired by my interest in trading and financial markets*
+
+Development of a TradingView indicator that translates trading concepts and systematic market analysis into clearly defined, programmable rules.
+
+- Detection and visualization of rule-based, multi-timeframe market setups
+- Development of preliminary and confirmed signal alerts
+- Implementation of configurable entry, stop-loss and take-profit logic
+- Iterative testing, validation and refinement based on historical market data
+- Performance evaluation through trade and win-rate statistics
+
+## Technical Skills
+
+- **Programming:** Java, C++, C, Pine Script
+- **Web & Mobile:** React Native, Expo
+- **Data & Cloud:** Firebase, Firestore, MongoDB, Apache Spark
+- **Tools & Methods:** Git, GitHub, testing, debugging, refactoring and AI-assisted development
+
+## Career Interests
+
+I am currently looking for a working student position in IT where I can contribute to real-world projects, strengthen my practical experience and continue developing my technical and analytical skills.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/tehmoor-bhatti) · [Email](mailto:tehmoor.bhatti@stud.fra-uas.de)
