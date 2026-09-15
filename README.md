@@ -53,10 +53,6 @@ Creation of a TradingView indicator through an AI-assisted development process. 
 - **Development:** Requirements analysis, testing, debugging, refactoring, Git, GitHub
 - **AI-Assisted Workflows:** Iterative implementation, analysis, validation, and problem-solving
 
-## Career Interests
-
-I am currently looking for a working student position in IT where I can contribute to real-world projects, strengthen my practical experience, and continue developing my technical and analytical skills.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/tehmoor-bhatti) · [Email](mailto:tehmoor.bhatti@stud.fra-uas.de)
